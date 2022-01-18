@@ -8,7 +8,7 @@
     <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
 </head>
 <body class="w-screen h-full bg-gray flex justify-center items-center">
-    <h1 class="text-5xl text-yellow-500">
+    <h1 class="text-5xl text-center text-yellow-500">
         Under Construction
     </h1>
 </body>
